@@ -8,12 +8,13 @@
 - [x] JS File 
 - [x] Array file (JS) - Archive data
 - [x] cloud information
-- [x] Site Art
+- [x] Site Art![Vercel QR Code]
+
 - [x] QR code adress
 - [x] Deploy ( Vercel )
 - [ ] Documentation
    
-<p align="center"><img src="https://github.com/user-attachments/assets/c3f98fdf-0be3-47b3-8831-e1e41d4cb209" align="center" alt="Qr Code Vercel" height="200">
+<p align="center"><img src="https://github.com/user-attachments/assets/f43b32a2-7e93-41bf-882b-603eae333621" align="center" alt="Qr Code Vercel" height="200">
 
 
  - Last test was done in My machine (0 bugs)
