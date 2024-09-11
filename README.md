@@ -14,7 +14,7 @@
 - [x] Deploy ( Vercel )
 - [ ] Documentation
    
-<p align="center"><img src="https://github.com/user-attachments/assets/f43b32a2-7e93-41bf-882b-603eae333621" align="center" alt="Qr Code Vercel" height="200">
+<p align="center"><img src="https://github.com/user-attachments/assets/f43b32a2-7e93-41bf-882b-603eae333621" align="center" alt="Qr Code Vercel" height="400">
 
 
  - Last test was done in My machine (0 bugs)
